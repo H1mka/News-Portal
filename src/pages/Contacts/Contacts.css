@@ -1,0 +1,52 @@
+.contactsPage {
+    display: flex;
+    justify-content: space-between;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 24.36px;
+}
+
+.info {
+    width: 50%;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.phone-number {
+    font-size: 60px;
+    font-weight: 400;
+    line-height: 55.8px;
+    margin-bottom: 50px;
+    color: #004fec;
+}
+
+.name {
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 30px;
+    margin-bottom: 25px;
+    border-left: 2px solid #004fec;
+    padding-left: 23px;
+}
+
+.mail {
+    margin-bottom: 52px;
+}
+
+.position {
+    color: rgba(51, 61, 81, 0.5);
+    margin-bottom: 25px;
+}
+
+.image {
+    width: 50%;
+}
+
+.image img {
+    width: 100%;
+    min-width: 540px;
+    height: 340px;
+}

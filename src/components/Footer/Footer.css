@@ -1,0 +1,21 @@
+.mainFooter {
+    display: flex;
+    justify-content: space-between;
+    padding: 45px 0;
+    font-size: 25px;
+    line-height: 30px;
+    font-weight: 700;
+    align-items: center;
+}
+
+.smallest {
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 14.62px;
+}
+
+.small {
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 18.27px;
+}

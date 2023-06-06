@@ -1,0 +1,13 @@
+.pageTitle {
+    margin-bottom: 75px;
+}
+
+.pageTitle h2 {
+    font-size: 60px;
+    font-weight: 400;
+    line-height: 55.8px;
+}
+
+.pageTitle span {
+    color: #004FEC;
+}

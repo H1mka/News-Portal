@@ -1,0 +1,40 @@
+.newsDetailPage {
+    margin-bottom: 90px;
+}
+
+.newsDetailWrapper {
+    display: flex;
+}
+
+.news-info {
+    width: 30%;
+}
+
+.news-detailInfo {
+    width: 70%;
+    padding-left: 30px;
+}
+
+img {
+    width: 100%;
+}
+
+.news-info .title {
+    font-size: 60px;
+    font-weight: 400;
+    line-height: 73.08px;
+    margin-bottom: 30px;
+}
+
+.news-info .source {
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 30.45px;
+    margin-bottom: 30px;
+}
+
+.news-detailInfo .news-text {
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 35px;
+}
